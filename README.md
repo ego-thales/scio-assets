@@ -1,0 +1,1 @@
+This repository contains heavy assets for [`scio`](https://github.com/ThalesGroup/scio), making it lighter for download. This repository is released under the same [MIT License](LICENSE).
